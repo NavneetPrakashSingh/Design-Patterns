@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DesignPatterns": {
+      "commandName": "Project"
+    },
+    "Factory": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\navne\\source\\repos\\DesignPatterns\\DesignPatterns\\BehavioralPattern\\Factory"
+    }
+  }
+}
