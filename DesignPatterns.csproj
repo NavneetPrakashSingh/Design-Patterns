@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>DesignPatterns.BehavioralPattern.Factory.Client</StartupObject>
+    <StartupObject>DesignPatterns.CreationalPattern.Builder.Client</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
